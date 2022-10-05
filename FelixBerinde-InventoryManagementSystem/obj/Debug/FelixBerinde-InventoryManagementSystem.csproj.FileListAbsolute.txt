@@ -1,0 +1,28 @@
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\bin\Debug\FelixBerinde-InventoryManagementSystem.exe.config
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\bin\Debug\FelixBerinde-InventoryManagementSystem.exe
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\bin\Debug\FelixBerinde-InventoryManagementSystem.pdb
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.MainScreen.resources
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.Properties.Resources.resources
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.exe
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.pdb
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.AddPart.resources
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.ModPart.resources
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.AddProduct.resources
+C:\Users\dansp\Desktop\Coding and Development\C968 - Software I - C#\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.ModProduct.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\bin\Debug\FelixBerinde-InventoryManagementSystem.exe.config
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\bin\Debug\FelixBerinde-InventoryManagementSystem.exe
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\bin\Debug\FelixBerinde-InventoryManagementSystem.pdb
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.MainScreen.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.AddPart.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.ModPart.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.AddProduct.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.ModProduct.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde_InventoryManagementSystem.Properties.Resources.resources
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.exe
+C:\Users\dansp\Desktop\FelixBerinde-InventoryManagementSystem-9-9-22\FelixBerinde-InventoryManagementSystem\obj\Debug\FelixBerinde-InventoryManagementSystem.pdb
