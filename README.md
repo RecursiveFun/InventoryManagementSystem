@@ -1,4 +1,5 @@
 # FelixBerinde-InventoryManagementSystem
+![mainscreen](https://user-images.githubusercontent.com/50165092/211186383-74f52037-1953-4a6c-b4e4-11edb63c6607.png)
 
 Below are project requirements.
 
@@ -160,4 +161,4 @@ J.  Write code to address the following conditions with exception handling code:
 •  Prevent the user from deleting a product that has a Part associated with it
 
 •  Confirm “Delete” actions
-![mainscreen](https://user-images.githubusercontent.com/50165092/211186383-74f52037-1953-4a6c-b4e4-11edb63c6607.png)
+
