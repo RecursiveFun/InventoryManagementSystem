@@ -1,6 +1,7 @@
 # FelixBerinde-InventoryManagementSystem
 
 Below are project requirements.
+
 I. User Interface
 Create a C# application with a graphical user interface (GUI) based on the attached “GUI Mock-Up.” Write code to display each of the following forms in the GUI:
 
